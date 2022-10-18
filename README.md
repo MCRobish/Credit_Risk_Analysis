@@ -4,9 +4,11 @@ The goal of this assignment was to take different techniques to train machine le
 
 ## Results: 
 * **Random Oversampling** 
-The model was trained and the balanceed accuracy score for this data set was 0.833. 
-The confusion matrix is shown below: 
+The model was trained and the balanced accuracy score for this data set was 83%. The precision and recall scores for high_risk and low risk loans are shown in the matrix below.The precision for high_risk loans is 0.03 and the recall is 0.82
 
-![image](https://user-images.githubusercontent.com/105991478/196565850-a1b37735-f0df-42eb-a3d9-7ee3576ce017.png)
+![image](https://user-images.githubusercontent.com/105991478/196566356-1a3473fb-2585-4b20-82cd-c776e21be8f7.png)
 
-* 
+* **SMOTE Oversampling**
+The balanced accuracy score for this model was 84%. The precision and recall scores are shown below. In this model, the precision for high_risk loans is 0.04 and recall is 0.82
+
+![image](https://user-images.githubusercontent.com/105991478/196566542-f3207a52-1583-47eb-acfb-7a4e513fe9e9.png)
