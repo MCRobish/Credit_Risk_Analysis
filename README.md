@@ -13,6 +13,12 @@ The balanced accuracy score for this model was 84%. The precision and recall sco
 
 ![image](https://user-images.githubusercontent.com/105991478/196566542-f3207a52-1583-47eb-acfb-7a4e513fe9e9.png)
 * **Cluster Centroids Undersampling**
-The balanced accuracy score for this model is 84%. In this model, the precision for high_risk loans is 0.04 and the recall is 0.82
+The balanced accuracy score for this model is 84%. In this model, the precision for high_risk loans is 0.03 and the recall is 0.83
 
-![image](https://user-images.githubusercontent.com/105991478/196566834-b08a607b-c65a-46d3-a42d-1eda3391e726.png)
+![image](https://user-images.githubusercontent.com/105991478/196567155-42ac55ab-fc82-481e-b794-dcae083b5d2d.png)
+
+
+* **SMOTEENN Over and Undersampling**
+The balanced accuracy score for this model is 84%. The imbalanced classification report is shown below. The precision for high_risk loans is 0.03 and the recall is 0.83
+
+![image](https://user-images.githubusercontent.com/105991478/196567419-5bc114d4-43d3-4d0e-a774-48837c4ec0fc.png)
