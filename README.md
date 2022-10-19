@@ -32,3 +32,6 @@ The balanced accuracy score for this model is 93% and the precision is 0.09 for 
 
 ![image](https://user-images.githubusercontent.com/105991478/196567925-7c0379b5-893a-4353-ba62-4445de3681b9.png)
 
+## Summary
+
+After reviewing each of the models, it appears that the EasyEnsemble Classifier model may fit the data best. This is because the balanced accuracy score seems to be high and the precision is also the best, which would be important to try to avoid high risk loans. 
