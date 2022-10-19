@@ -12,3 +12,7 @@ The model was trained and the balanced accuracy score for this data set was 83%.
 The balanced accuracy score for this model was 84%. The precision and recall scores are shown below. In this model, the precision for high_risk loans is 0.04 and recall is 0.82
 
 ![image](https://user-images.githubusercontent.com/105991478/196566542-f3207a52-1583-47eb-acfb-7a4e513fe9e9.png)
+* **Cluster Centroids Undersampling**
+The balanced accuracy score for this model is 84%. In this model, the precision for high_risk loans is 0.04 and the recall is 0.82
+
+![image](https://user-images.githubusercontent.com/105991478/196566834-b08a607b-c65a-46d3-a42d-1eda3391e726.png)
