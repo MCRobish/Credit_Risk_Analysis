@@ -22,3 +22,13 @@ The balanced accuracy score for this model is 84%. In this model, the precision 
 The balanced accuracy score for this model is 84%. The imbalanced classification report is shown below. The precision for high_risk loans is 0.03 and the recall is 0.83
 
 ![image](https://user-images.githubusercontent.com/105991478/196567419-5bc114d4-43d3-4d0e-a774-48837c4ec0fc.png)
+
+* **Balanced Random Forest Classifier** The balanced accuracy score for this model is 76%. The precision for high_risk loans is 0.03 and the recall is 0.63
+
+![image](https://user-images.githubusercontent.com/105991478/196567813-78945561-e627-426f-a5cc-fb0282415c47.png)
+
+* **EasyEnsemble Classifier**
+The balanced accuracy score for this model is 93% and the precision is 0.09 for high risk loans. The recall is 0.92 
+
+![image](https://user-images.githubusercontent.com/105991478/196567925-7c0379b5-893a-4353-ba62-4445de3681b9.png)
+
